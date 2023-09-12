@@ -1,0 +1,17 @@
+.contact-heigh {
+  margin-top: 86px;
+  min-height: calc(100vh - 106px);
+}
+button {
+  background-color: #1abc9c;
+}
+
+.scroll {
+  overflow: visible;
+} 
+
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.1rem rgb(253, 253, 253);
+} 
+

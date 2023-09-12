@@ -1,0 +1,12 @@
+.about {
+  background-color: #1abc9c;
+}
+.line {
+  height: 4px;
+  width: 80px;
+}
+
+.about-heigh {
+  margin-top: -1%;
+  min-height: calc(100vh - -70px);
+}

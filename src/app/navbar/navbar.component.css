@@ -1,0 +1,12 @@
+.nav-bar-color{
+    background-color:#2C3E50 !important;
+}
+
+.nav-bar-a{
+color: #FFFFFF;
+}
+
+.active{
+    background-color: #1abc9c !important;
+    border-radius: .5rem;
+}

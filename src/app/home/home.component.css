@@ -1,0 +1,17 @@
+.home {
+  background-color: #1abc9c;
+  margin-top: -86px;
+  min-height: calc(100vh - -200px);
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+}
+
+img {
+  width: 250px;
+}
+
+
+
